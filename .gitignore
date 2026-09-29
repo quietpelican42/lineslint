@@ -1,0 +1,6 @@
+/lineslint
+/cmd/lineslint/lineslint
+*.test
+*.out
+coverage.*
+/.corpus/
