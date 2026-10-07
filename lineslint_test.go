@@ -5,7 +5,7 @@ import (
 
 	"golang.org/x/tools/go/analysis/analysistest"
 
-	"github.com/__GH_OWNER__/lineslint"
+	"github.com/quietpelican42/lineslint"
 )
 
 func TestFixtures(t *testing.T) {

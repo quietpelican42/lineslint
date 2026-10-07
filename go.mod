@@ -1,4 +1,4 @@
-module github.com/__GH_OWNER__/lineslint
+module github.com/quietpelican42/lineslint
 
 go 1.26.0
 

@@ -61,7 +61,7 @@ The programs print `files found: 1 of 3` and `false 3 "alpha\nbeta\ngamma\n"` wh
 ## Installation
 
 ```sh
-go install github.com/__GH_OWNER__/lineslint/cmd/lineslint@latest
+go install github.com/quietpelican42/lineslint/cmd/lineslint@latest
 ```
 
 The module depends on `golang.org/x/tools` only.
@@ -87,7 +87,7 @@ In this mode `go vet` decides the exit status.
 ### As a library
 
 ```go
-import "github.com/__GH_OWNER__/lineslint"
+import "github.com/quietpelican42/lineslint"
 
 // Add lineslint.Analyzer to a multichecker or an analysistest run.
 var _ = lineslint.Analyzer

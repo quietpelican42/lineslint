@@ -35,7 +35,7 @@ first. Values it cannot classify are never reported.`
 var Analyzer = &analysis.Analyzer{
 	Name:     "lineslint",
 	Doc:      Doc,
-	URL:      "https://github.com/__GH_OWNER__/lineslint",
+	URL:      "https://github.com/quietpelican42/lineslint",
 	Requires: []*analysis.Analyzer{inspect.Analyzer},
 	Run:      run,
 }

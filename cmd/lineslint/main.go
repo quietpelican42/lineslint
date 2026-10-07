@@ -17,7 +17,7 @@ import (
 
 	"golang.org/x/tools/go/analysis/singlechecker"
 
-	"github.com/__GH_OWNER__/lineslint"
+	"github.com/quietpelican42/lineslint"
 )
 
 // innerEnv marks the child process that runs the real singlechecker.

@@ -12,7 +12,7 @@ import (
 	"golang.org/x/tools/go/analysis/checker"
 	"golang.org/x/tools/go/packages"
 
-	"github.com/__GH_OWNER__/lineslint"
+	"github.com/quietpelican42/lineslint"
 )
 
 // The real-world bug the analyzer was built around: tw93/Mole at a pinned
